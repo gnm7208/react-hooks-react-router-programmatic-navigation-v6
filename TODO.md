@@ -1,0 +1,3 @@
+- [x] Update App.js: Add authentication state, useNavigate hook, login/logout functions, useEffect for programmatic navigation, and conditional rendering with Navigate component.
+- [x] Update NavBar.js: Add logout prop and button to handle logout.
+- [x] Update Login.js: Use useOutletContext to access login function and call it on form submission.
